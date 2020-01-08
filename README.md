@@ -1,2 +1,2 @@
-# ECG-analysis
-In this repository I will try to analyse a dataset with ECG data
+# ECG-analysis using LSTM
+In this repository I will try to analyse some ECG data using LSTM
